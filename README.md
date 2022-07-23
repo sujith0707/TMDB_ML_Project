@@ -10,4 +10,7 @@
   model with prediction accuracy of 91%
   
   ![](/images/download1.png)
+  ![](/images/download2.png)
+  ![](/images/download3.png)
+  
   
