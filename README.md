@@ -9,5 +9,5 @@
 ->Used RandomForest, Grid searchCV, XG Boost to build
   model with prediction accuracy of 91%
   
-  ![](https://github.com/sujith0707/TMDB_ML_Project/blob/master/images/download1.png)
+  ![](/images/download1.png)
   
